@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+	<meta name="izma" content="portofolio">
+	<title>My Portofolio</title>
+</head>
+<body background="image3.jpg">
+	<header>
+	   <pre>
+	       <p><font color="White" align="left" size="10%"><b>Portofolio</b><font align="right">                            Home   Blog  Skills  Contact me</font></font></p><hr>
+           </pre>
+	</header>
+<br><br><br><br>
+	<blockquote><blockquote>
+	<img src="image4.jpg" alt="photo" width="250" align="right"></img>
+	</blockquote></blockquote>
+<br><br>
+	<pre>
+		<p><font colour="White" size="25"><b><blockquote><blockquote>
+		Hi,
+		I'am <font color="red">Izma</font>
+		Software Devloper
+		</p></font></b></blockquote></blockquote>
+	</pre>	
+<br>
+	<fieldset rows="4" cols="10">
+	<legend>Feedback</legend>
+	</fieldset>
+</body>
+</html>
